@@ -2,7 +2,7 @@
 - 👋 Oi, Eu sou @TeaElliott
 - :+1: Meu e-mail de contato é [email](elivanio.soares@escola.pr.gov.br)
 - 👀 Estou interesado em programar em novas linguagens.
-- 🌱 Eu tenho aprendido a linguagem javascript e scratch recentemente.
+- 🌱 Tenho aprendido a linguagem javascript e scratch. Estou aprofundando na linguagem html e css. 
 
 Estou participando pela primeira vez do Formadores em Ação referente à Pensamento Computacional.
 
